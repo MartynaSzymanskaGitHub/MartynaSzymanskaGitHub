@@ -17,6 +17,9 @@
 </table>
 </div>
 
+  <br>
+  <br>
+
 <h2 align="center"> Languages - Tools </h2>
 <br/>
 <div align="center">
@@ -27,4 +30,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50px"/>
   <br>
+</div>
+
+  <br>
+  <br>
+
+<div align="center">
+  <h2>Currently Working On</h2> 
+  <p><strong>💻 Self-learning .NET & C#</strong> – Improving my C# skills and expanding knowledge in backend development</p>
+  <p><strong>🎓 Studying at University of Technology Lodz</strong> – 3rd-year student, passionate about software development and data analysis</p>
+  <p><strong>🗣️ Learning French</strong> – J'étudie la communication et l'écriture ;) </p>
 </div>
