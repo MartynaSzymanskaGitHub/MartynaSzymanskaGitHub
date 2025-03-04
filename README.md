@@ -1,3 +1,3 @@
-## Hi there 👋
+## Welcome to my GitHub 👋
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartynaSzymanskaGitHub&show_icons=true&theme=radical)
