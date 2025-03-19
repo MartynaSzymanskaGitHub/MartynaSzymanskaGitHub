@@ -23,7 +23,7 @@
 <h2 align="center"> Languages - Tools </h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" /> 
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" /> 
   <br>
   <img src="https://skillicons.dev/icons?i=c,java,mysql,nodejs,python,javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50px"/>
