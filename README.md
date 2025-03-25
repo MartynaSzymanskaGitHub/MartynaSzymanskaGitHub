@@ -37,7 +37,7 @@
 
 <div align="center">
   <h2>Currently Working On</h2> 
-  <p><strong>💻 Self-learning .NET & C#</strong> – Improving my C# skills and expanding knowledge in backend development</p>
+  <p><strong>💻 Self-learning .NET, C# and Java</strong> – Improving my C# skills and expanding knowledge in backend development</p>
   <p><strong>🎓 Studying at University of Technology Lodz</strong> – 3rd-year student, passionate about software development and data analysis</p>
   <p><strong>🗣️ Learning French</strong> – J'étudie la communication et l'écriture ;) </p>
 </div>
